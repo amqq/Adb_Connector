@@ -5,7 +5,7 @@ Unfortunately, this software currently only supports the NOX emulator.
 Welcome to this software, we will develop it for other emulators.
 
 # How to execute it :
-For execute it software ypu can use Bat To Exe Converter 3.2 software.
+For execute it software you can use Bat To Exe Converter 3.2 software.
 
 # How to use :
 You can easily run this software with double-clicks on Adb_Connector.
